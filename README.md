@@ -17,7 +17,7 @@
 ---
 ## Dependencies ##
 
-The analyses mostly use <a href="https://github.com/py4dstem/py4DSTEM">py4dSTEM</>
+The analyses mostly use <a href="https://github.com/py4dstem/py4DSTEM">py4dSTEM</a> and its dependencies.
 
 ---
 <b>contact:</b> roberto.reis@northwestern.edu, stephanieribet2023@u.northwestern.edu , paul.smeets@northwestern.edu
